@@ -16,4 +16,7 @@
     <!-- Allow devices to hide ringer button above volume slider -->
     <bool name="config_hideRingerButton">true</bool>
 
+    <!-- Color of the FOD view -->
+    <color name="config_fodColor">#ffffe6</color>
+
 </resources>
