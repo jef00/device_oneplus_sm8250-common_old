@@ -18,5 +18,6 @@
 
     <!-- Color of the FOD view -->
     <color name="config_fodColor">#ffffe6</color>
+    <color name="config_fodColorBackground">#00000000</color>
 
 </resources>
